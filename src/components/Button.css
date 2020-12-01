@@ -1,0 +1,20 @@
+* {
+    box-sizing: border-box;
+  }
+
+.clearButton, .plus-minusButton, .percentageButton, .numberButton, .operatorButton, .decimalButton, .equalsButton{
+    width: 20%;
+    height: 80px;
+    margin: 4px
+  }
+
+.zeroButton {
+    width: 50%;
+    height: 80px;
+    margin: 4px;
+}
+  
+  /* #decimal_place, #equals {
+    flex-grow: 1;
+  } */
+  
